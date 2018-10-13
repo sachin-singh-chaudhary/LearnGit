@@ -1,1 +1,1 @@
-this is file content
+this is file content to be used only for subbranch details.
