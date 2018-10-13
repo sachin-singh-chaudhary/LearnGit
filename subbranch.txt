@@ -1,1 +1,2 @@
 this is file content to be used only for subbranch details.{usecase is subbranch}
+somekey = vlaue,value1
