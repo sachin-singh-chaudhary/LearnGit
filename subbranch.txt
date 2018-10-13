@@ -1,1 +1,1 @@
-this is file content usecase is subbranch
+this is file content to be used only for subbranch details.{usecase is subbranch}
